@@ -4,7 +4,7 @@
 ```
 OSS/
 ├── main.ps1               # 6か月削除とリネームの本体
-├── 6mon_del.bat.bat       # main.ps1 の起動用
+├── 6mon_del.bat       # main.ps1 の起動用
 ├── Insert_Date.ps1        # 日付付与の本体
 ├── Insert_Date_All.bat    # Insert_Date.ps1 の起動用
 ├── Filter_Del.bat         # 削除一覧の抽出
